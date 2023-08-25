@@ -1,0 +1,2 @@
+# ModalHack
+NYC AI Hackathon
