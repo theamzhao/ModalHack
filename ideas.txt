@@ -5,4 +5,3 @@
 3) app to upload monthly spending and get personalized recommendations for saving more based on user goals
 
 4) An app through which you can take an image of the "Nutrition Facts" chart at the back of the products, and then process that image and present statistics of how healthy it is or how recommendable is it for a particular customer's dietary preferences?
-
